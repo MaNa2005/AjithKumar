@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-<a href='https://github.com/Kushalhk/TG_BOTZ'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+<a href='https://github.com/MaNa2005/AjithKumar'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TG_UPDATES1)</code>
+<code>[Button Text](buttonurl:https://t.me/kmsmovies1)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -190,7 +190,7 @@ Nᴀᴍᴇ - {}"""
 ➖➖➖➖➖➖➖➖➖➖
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 ➖➖➖➖➖➖➖➖➖➖
-⬤ 𝚈𝚃 𝙲𝚑𝚊𝚗𝚗𝚎𝚕: <a href='https://youtube.com/@HK_Production1?si=4SGtv4GocenmKoUW'>𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐇𝐞𝐫𝐞</a>"""
+⬤ 𝔚𝔥𝔞𝔱𝔰𝔄𝔭𝔭 ℭ𝔥𝔞𝔫𝔫𝔢𝔩: <a href='https://whatsapp.com/channel/0029Va5rjzvBVJlCi31Gg90N'>𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐇𝐞𝐫𝐞</a>"""
     
 
     IMDB_TEMPLATE_TXT = """

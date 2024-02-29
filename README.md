@@ -149,3 +149,7 @@ Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
 </p>
+
+<p align="center">
+  <img src="https://graph.org/file/63ad665f46f6e9ef7f49c.jpg" alt="HK-PRODUCTIONS Logo">
+</p>
